@@ -14,5 +14,6 @@ public class portaltrigger : MonoBehaviour
             Debug.Log("New scene");
             SceneManager.LoadScene(1);
         }
+
     }
 }
