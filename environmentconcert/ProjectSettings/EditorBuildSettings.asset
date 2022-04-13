@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/interactivefield.unity
     guid: 04ce0929f2e98bd41b93ddbbd4238564
+  - enabled: 1
+    path: Assets/Scenes/falling.unity
+    guid: 05ffb962585080343b3d038452d85053
   m_configObjects: {}
