@@ -8,13 +8,14 @@ public class AudioTrigger : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        audioSource = GetComponent<AudioSource>();
+        platformsound = GetComponent<AudioSource>();
     }
 
     void OnCollisionEnter(Collision collision)
     {
         foreach (ContactPoint contact in collision.contacts)
         {
-            Debug
+            // Debug
         }
     }
+}
