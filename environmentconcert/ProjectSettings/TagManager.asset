@@ -7,6 +7,8 @@ TagManager:
   - Portal
   - portal2
   - Portal1
+  - Reset
+  - Portal2
   layers:
   - Default
   - TransparentFX

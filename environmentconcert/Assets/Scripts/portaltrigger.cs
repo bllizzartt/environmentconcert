@@ -31,5 +31,12 @@ public class portaltrigger : MonoBehaviour
             SceneManager.LoadScene(3);
 
         }
+
+        if (other.tag == "Reset")
+        {
+            Debug.Log("New scene");
+            SceneManager.LoadScene(1);
+
+        }
     }
 }
