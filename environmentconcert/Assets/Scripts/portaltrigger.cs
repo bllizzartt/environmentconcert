@@ -14,8 +14,8 @@ public class portaltrigger : MonoBehaviour
         {
             Debug.Log("New scene");
             SceneManager.LoadScene(1);
-            //SceneManager.LoadScene(2);
-            //SceneManager.LoadScene(3);
+           
+           
         }
 
         if (other.tag == "Portal1")
@@ -23,6 +23,13 @@ public class portaltrigger : MonoBehaviour
             Debug.Log("New scene");
             SceneManager.LoadScene(2);
             
+        }
+
+        if (other.tag == "Portal2")
+        {
+            Debug.Log("New scene");
+            SceneManager.LoadScene(3);
+
         }
     }
 }

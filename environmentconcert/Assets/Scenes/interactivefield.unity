@@ -2811,7 +2811,7 @@ GameObject:
   - component: {fileID: 1522787175}
   m_Layer: 0
   m_Name: portalHome
-  m_TagString: portal2
+  m_TagString: Portal1
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
