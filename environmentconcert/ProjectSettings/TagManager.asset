@@ -9,6 +9,7 @@ TagManager:
   - Portal1
   - Reset
   - Portal2
+  - Platform
   layers:
   - Default
   - TransparentFX

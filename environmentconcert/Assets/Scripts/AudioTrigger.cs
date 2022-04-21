@@ -1,3 +1,5 @@
+//This script allows audio to ber played upon a colliding event
+//------debating if i will be using this!!!------
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

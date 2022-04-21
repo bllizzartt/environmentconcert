@@ -1,3 +1,4 @@
+//This script deals with proper scene loading upon colliding points
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

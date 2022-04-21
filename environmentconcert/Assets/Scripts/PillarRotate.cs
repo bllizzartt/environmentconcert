@@ -6,7 +6,7 @@ public class PillarRotate : MonoBehaviour
 {
     public GameObject platformMove;
 
-    //This lets us determine our movement of gameobjects based on animating and collidder interaction 
+    //This lets us determine our movement of gameobjects based on animating and collider interaction 
     void OnTriggerEnter(Collider other)
     {
         if (other.tag == "Player")
